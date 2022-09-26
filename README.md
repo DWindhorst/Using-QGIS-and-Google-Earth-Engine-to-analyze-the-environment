@@ -13,8 +13,7 @@ This course is to be taught over a 12 week period. All graded exercises have to 
 * Exercise 1 in Notebook 1.1 (10 points) and Exercise 1 in Notebook 1.2 (5 points) have to be submitted at the end of week 3.
 * Exercise 3 in Notebook 2.4 (15 points) and Exercise 2 in Notebook 2.5 (15 points) have to be submitted at the end of week 6. 
 * The Final Project Outline (25 points) has to be submitted at the end of week 9.
-* The Final Project  has to be submitted by the end of week 10.  
-* The Final Project including Pseudocode (15 points) and Execution (15 points) have to be submitted at the end of the class. 
+* The Final Project including Pseudocode (15 points) and Execution (15 points) has to be submitted at the end of the class. 
 
 
 This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS (published under GNU Public License), https://github.com/google/earthengine-community (published under Apache-2.0 license, same as this repository) and https://github.com/csaybar/EEwPython (published under Apache-2.0 license, same as this repository) .
