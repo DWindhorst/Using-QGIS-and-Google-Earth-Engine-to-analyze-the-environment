@@ -3,7 +3,7 @@ Repository for a QGIS course at the Justus-Liebig-University Giessen. This cours
 
 The intended way to teach this course is the following:
 
-The students are meant to take a look at the notebook on their own. They have to watch all the videos and do all the exercises. There are regular Q&A sessions were students can ask questions about the course in the group. During the project phase (following the excercises), students can book appointments with the teacher to get 1on1 feedback.
+The students participating in the module form groups of two. Each group is meant to take a look at the notebook on their own. They have to watch all the videos and do all the exercises. There are regular Q&A sessions were students can ask questions about the course in the group. During the project phase (following the excercises), students can book appointments with the teacher to get 1on1 feedback.
 
 ## Grading and schedule
 
